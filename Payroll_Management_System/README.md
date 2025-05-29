@@ -78,16 +78,15 @@ This project simulates a payroll system using SQL Server.
 ---
 
 ### 📂 Included Files:
-- `Tables.sql` – Table creation scripts
-- `InsertQueries.sql` – Sample data inserts
+- `Table Creation Queries.sql` – Table creation scripts
+- `Record Insertion into tables.sql` – Sample data inserts
+- 'Cal_sal.sql- Stored procedure to calculate salary
 - `Trigger.sql` – Salary audit trigger
 - `Payroll_Reports.sql` – Example queries and reports
 
 ---
 
 ### 🔁 To-Do / Enhancements:
-- Add stored procedures for salary processing
-- UI for HR to input attendance/allowances
 - Monthly payslip generator
 
 ---
