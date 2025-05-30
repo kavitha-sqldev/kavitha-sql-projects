@@ -16,3 +16,24 @@ This project simulates an inventory management system using SQL Server.
 - `Trigger.sql` – Trigger for auto stock update
 - `Inventory_Reports.sql` – Example queries and reports
 
+
+Payroll Management System 💼
+This project simulates a payroll system using SQL Server.
+
+✅ Features:
+Manage employee records, departments, and designations
+Maintain attendance, allowances, and deductions
+Track salary components and compute net salary
+Automatically log salary updates via trigger
+Generate reports for department-wise salaries and employee earnings
+
+📂 Included Files:
+Table Creation Queries.sql – Table creation scripts
+Record Insertion into tables.sql – Sample data inserts
+Cal_sal.sql- Stored procedure to calculate salary
+Trigger.sql – Salary audit trigger
+Payroll_Reports.sql – Example queries and reports
+
+Contact vrkavitha12@gmail.com 
+
+#Aspiring SQL Developer #Open_to_Freelance #Open_to_Internship #Open_to_Remote #Open_to_Fulltime
